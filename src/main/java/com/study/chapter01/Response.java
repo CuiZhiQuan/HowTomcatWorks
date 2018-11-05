@@ -1,9 +1,6 @@
 package com.study.chapter01;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.OutputStream;
+import java.io.*;
 
 /**
  * @author cuizhiquan
