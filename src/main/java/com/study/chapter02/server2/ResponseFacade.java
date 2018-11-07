@@ -53,11 +53,6 @@ public class ResponseFacade implements ServletResponse {
     }
 
     @Override
-    public void setContentLengthLong(long len) {
-        response.setContentLengthLong(len);
-    }
-
-    @Override
     public void setContentType(String type) {
         response.setContentType(type);
     }
